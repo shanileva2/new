@@ -24,6 +24,8 @@ public class Main {
         return totalNumbers;
     }
 
+// check
+
     static int totalIncDec (int x){
         double numToCheck = Math.pow(10,x);
         int totalInc = totalIncreasing(numToCheck);
